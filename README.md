@@ -48,7 +48,7 @@ The original files are much larger and messier, and you don't need to download t
   * Earliest, most recent, most common year of birth (only available for NYC and Chicago)
 
 ### Software Needs
-* You should have Python, NumPy and Pandas installed with Anaconda.
+* You should have Python, NumPy and Pandas installed with [Anaconda](https://www.anaconda.com/products/individual#windows).
 * A text editor, like Atom or Sublime Text.
 * A terminal application (Terminal on Mac and Linux or Cygwin on Windows).
 

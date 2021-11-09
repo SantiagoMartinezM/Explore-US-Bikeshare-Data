@@ -8,7 +8,7 @@ Bicycle-sharing systems puts at the disposal of a group of users a series of bic
 Wrote Python code to import the chosen city CSV with data related to the bike share system. The script takes raw input from the user to create an interactive experience in the terminal to compute and present illustrative information.
 
 ### The Datasets
-The data was provided by [Motivate](https://www.motivateco.com/), a bike share system provider for many major cities in the United States, to uncover bike share usage patterns.
+The data was provided by *[Motivate](https://www.motivateco.com/)*, a bike share system provider for many major cities in the United States, to uncover bike share usage patterns.
 
 Randomly selected data for the first six months of 2017 are provided for all three cities. All three of the data files contain the same core six (6) columns:
 
@@ -26,7 +26,7 @@ The Chicago and New York City files also have the following two columns:
 
 ![Data sample from New York City dataset](https://video.udacity-data.com/topher/2018/March/5aa771dc_nyc-data/nyc-data.png)
 
-The original files are much larger and messier, and you don't need to download them, but they can be accessed here if you'd like to see them ([Chicago](https://www.divvybikes.com/system-data), [New York City](https://www.citibikenyc.com/system-data), [Washington](https://www.capitalbikeshare.com/system-data)). These files had more columns and they differed in format in many cases. Some data wrangling has been performed to condense these files to the above core six columns.
+The original files are much larger and messier, and you don't need to download them, but they can be accessed here if you'd like to see them (*[Chicago](https://www.divvybikes.com/system-data)*, *[New York City](https://www.citibikenyc.com/system-data)*, *[Washington](https://www.capitalbikeshare.com/system-data)*). These files had more columns and they differed in format in many cases. Some data wrangling has been performed to condense these files to the above core six columns.
 
 ### Statistics Computed
 * Popular times of travel
@@ -49,12 +49,12 @@ The original files are much larger and messier, and you don't need to download t
   * Earliest, most recent, most common year of birth (only available for NYC and Chicago)
 
 ### Software Needs
-* You should have Python, NumPy and Pandas installed with [Anaconda](https://www.anaconda.com/products/individual#windows).
+* You should have Python, NumPy and Pandas installed with *[Anaconda](https://www.anaconda.com/products/individual#windows)*.
 * A text editor, like Atom or Sublime Text.
 * A terminal application (Terminal on Mac and Linux or Cygwin on Windows).
 
 ### Credits
-Credits to [Full Stack Python](https://www.fullstackpython.com/) for the tips given and acknowledgement to the Udacity Knowledge Team for supporting and helping throughout the course.
+Credits to *[Full Stack Python](https://www.fullstackpython.com/)* for the tips given and acknowledgement to the Udacity Knowledge Team for supporting and helping throughout the course.
 
 
 

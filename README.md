@@ -53,7 +53,7 @@ The original files are much larger and messier, and you don't need to download t
 * A text editor, like Atom or Sublime Text.
 * A terminal application (Terminal on Mac and Linux or Cygwin on Windows).
 
-### Credits
+#### Credits
 Credits to *[Full Stack Python](https://www.fullstackpython.com/)* for the tips given and acknowledgement to the Udacity Knowledge Team for supporting and helping throughout the course.
 
 

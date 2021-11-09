@@ -1,6 +1,7 @@
 # Explore US Bikeshare Data
 Made use of Python to explore data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington. Wrote code to import the data and search for insights by computing descriptive statistics.
 ###### 08/11/2021
+![Bycicle sharing system in New York City](https://thecityfix.com/wp-content/uploads/2013/05/by-shinya_lr.jpg)
 
 ### Description
 Bicycle-sharing systems puts at the disposal of a group of users a series of bicycles to be used temporarily as a means of transport. Nowadays, this alternative way of transport has become more common among citizens, and being able to find patterns and understand them has turned into an asset for managing public bycicle share systems.
